@@ -1,7 +1,7 @@
 # Professional-README-Generator
 ## Week 9 Challenge: Node.js
 
-[![Demonstration Video](https://www.youtube.com/watch?v=PoMSR9_LVkw)
+[![Demonstration Video](https://img.youtube.com/vi/PoMSR9_LVkw/maxresdefault.jpg)](https://youtu.be/PoMSR9_LVkw)
 
 ## Description
 Code refactor to finish creating a javascript application that takes input from the user through the command-line and uses it to generate a readme file.
