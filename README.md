@@ -1,4 +1,4 @@
-# professional-readme-generator
+# Professional ReadMe Generator
 Module 9 Challenge: Node.js
 
 [![Demonstration Video](https://img.youtube.com/vi/PoMSR9_LVkw/maxresdefault.jpg)](https://youtu.be/PoMSR9_LVkw)
